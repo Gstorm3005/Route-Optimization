@@ -1,4 +1,4 @@
-# Route Optimization Project 🛣️
+# Route Optimization 🛣️
 
 ## Project Overview 🚀
 
@@ -22,17 +22,8 @@ To address this problem, we employed a combination of techniques:
 
 - **Python (Programming Language)**: The entire project was implemented in Python, harnessing its flexibility and powerful libraries for scientific computing and optimization.
 
-## How to Use 📝
+## Contributors <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>
 
-1. Clone this repository to your local machine.
-2. Open the Jupyter Notebook file to explore the project's implementation, methodology, and results.
-3. Experiment with different parameters or datasets to further refine the solution.
-4. Feel free to contribute by suggesting improvements, reporting issues, or submitting pull requests!
-
-## Acknowledgments 🙏
-
-We would like to acknowledge [insert any specific acknowledgments or credits here].
-
----
-
-By [Your Name]
+- Afnane Messaoui
+- Mohammed Reda Guellati
+- Zakaria Ali Zouaoui
